@@ -13,7 +13,7 @@ let sound1, winner1, winner2;
 let woc = 1
 
 function preload() {
-	sound1  = loadSound('sounds/put.mp3')
+	sound1  = loadSound('sounds/block.mp3')
 	winner1 = loadSound('sounds/winner1.mp3')
 	winner2 = loadSound('sounds/winner2.mp3')
 }
